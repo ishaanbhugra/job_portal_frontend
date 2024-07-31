@@ -26,7 +26,7 @@ const MyProfile = () => {
       </div>
       {user && user.role === "Job Seeker" && (
         <div>
-          <label>My Preferred Job Niches</label>
+          <label>My Preferred Job Positions</label>
           <div
             style={{ display: "flex", flexDirection: "column", gap: "15px" }}
           >

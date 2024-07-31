@@ -187,9 +187,9 @@ const JobPost = () => {
         />
       </div>
       <div>
-        <label>Job Niche</label>
+        <label>Job Position</label>
         <select value={jobNiche} onChange={(e) => setJobNiche(e.target.value)}>
-          <option value="">Select Job Niche</option>
+          <option value="">Select Position</option>
           {nichesArray.map((element) => {
             return <option value={element}>{element}</option>;
           })}

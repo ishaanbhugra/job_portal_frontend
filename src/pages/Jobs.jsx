@@ -118,7 +118,7 @@ const Jobs = () => {
                 ))}
               </div>
               <div className="cities">
-                <h2>Filter Job By Niche</h2>
+                <h2>Filter Job By Position</h2>
                 {nichesArray.map((niche, index) => (
                   <div key={index}>
                     <input
