@@ -11,7 +11,13 @@ const Navbar = () => {
         <div className="logo">
           <img src="/logo.png" alt="logo" />
           JOB-ISH
-<p>The full source code and project overview can be found at: <a href="https://github.com/ishaanbhugra/job_portal_full">HERE</a> </p>
+<p>The full source code and project overview can be found at: <a href="https://github.com/ishaanbhugra/job_portal_full">HERE</a>
+<br/> Dummy Accounts:
+<br/> Employer: Email-ishaanbhugra@gmail.com Password-12345678
+<br/> Job Seeker: Email-ishaanbhugra2@gmail.com Password-12345678
+
+
+ </p>
         </div>
         <div className="links">
           <ul>
