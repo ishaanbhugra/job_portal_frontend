@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="logo">
           <img src="/logo.png" alt="logo" />
          <strong><b>JOB-ISH</b></strong>
-<p style={{fontSize:'14px'}}>
+<p style={{fontSize:'10px'}}>
 The full source code and project overview can be found at: <a href="https://github.com/ishaanbhugra/job_portal_full">HERE</a>
 <br/> Dummy Accounts:
 <br/> Employer: Email-ishaanbhugra@gmail.com Password-12345678
